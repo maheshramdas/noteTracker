@@ -7,9 +7,9 @@
 3) User is able to delete a note
 
 ## Screenshots
+![Screenshot 2022-09-26 032251](https://user-images.githubusercontent.com/109004012/192167256-dc212241-5bc7-471e-9206-7cb265c2f72c.png)
 ![Screenshot 2022-09-26 032036](https://user-images.githubusercontent.com/109004012/192167251-ca398a13-8c2f-4703-b452-23bb1e31c56f.png)
 ![Screenshot 2022-09-26 032155](https://user-images.githubusercontent.com/109004012/192167254-e67ce82e-188e-46a8-b36c-b7ea37cde996.png)
-![Screenshot 2022-09-26 032251](https://user-images.githubusercontent.com/109004012/192167256-dc212241-5bc7-471e-9206-7cb265c2f72c.png)
 
 ## URLs
 1) Deployed application link on Heroku : https://deploy-note-tracker.herokuapp.com/
